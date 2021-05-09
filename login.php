@@ -36,7 +36,7 @@
 				<p>Forget Password</p>
 			</div>
 			<div class="submit_btn">
-				<button type="submit" name="submitBtn" class="ripplelink cyan">Sign in</button>
+				<button type="submit" name="submitBtn" class="ripplelink cyan">Sign in man</button>
 			</div>
 		</form>
 
