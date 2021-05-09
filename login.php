@@ -33,7 +33,7 @@
 				<div>
 					<input type="checkbox" checked="checked" value="Bike"> Remember me<br>
 				</div>
-				<p>Forget Password</p>
+				<p>Would You Forgot password ?</p>
 			</div>
 			<div class="submit_btn">
 				<button type="submit" name="submitBtn" class="ripplelink cyan">Sign in</button>
@@ -49,7 +49,7 @@
 				<div>
 					<input type="checkbox" checked="checked" value="Bike"> Remember me<br>
 				</div>
-				<p>Forget Password</p>
+				<p>Would You Forgot password ?</p>
 			</div>
 			<div class="submit_btn">
 				<button type="submit" name="submitBtn" class="ripplelink cyan">Sign in</button>
